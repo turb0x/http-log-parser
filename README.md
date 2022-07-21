@@ -1,5 +1,4 @@
 # HTTP Log Parser
-
 ### This project was done for the Python Programming Course at Vilnius University
 
 ### Tasks:

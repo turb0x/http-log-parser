@@ -2,7 +2,7 @@
 
 ### This project was done for the Python Programming Course at Vilnius University
 
-### Features:
+### Tasks:
 - [x] Task 1 - Group by IP or Status Group
 - [x] Task 2 - Calculate for each groups 
 - [x] Task 3 - Descending order

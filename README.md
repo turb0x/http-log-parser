@@ -5,6 +5,8 @@
 ### Features:
 - [x] Task 1 - Group by IP or Status Group
 - [x] Task 2 - Calculate for each groups 
+- [x] Task 3 - Descending order
+- [x] Task 4 - Limit the size
 
 ```
 USAGE: http.py [log_file] [-argument] [optional size]
